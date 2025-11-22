@@ -62,7 +62,7 @@ Three LEDs are included in the circuit to visually indicate the system’s statu
 
 * **Red LED**
 
-    This LED turns ON when the system is powered, showing that the setup is active and ready.
+    This LED turns ON when the system is powered, but not connected to the internet.
 
 * **Yellow LED**
 
