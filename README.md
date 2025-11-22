@@ -132,8 +132,39 @@ const int yellow_led = <YELLOW LED PIN>;
 
 Note: To find your COM Port, Open **Device Manager** and Under **Ports (COM and LPT)**, you will see something like this..
 
+<img width="300" height="183" alt="Screenshot 2025-11-22 095510" src="https://github.com/user-attachments/assets/1d76803c-4e99-4e3f-aa84-b735b8079b51" />
+
+<br>
+<br>
+
+### Here is the final setup:
+
+<br>
+
+<img width="500" height="283" alt="Screenshot 2025-11-22 095510" src="https://github.com/user-attachments/assets/0069c00a-e2d1-4373-8dce-3ba118f70b71" />
+<br>
+
+**Not Connected to the Internet**
+
+<br>
+<br>
+<img width="500" height="283" alt="Screenshot 2025-11-22 095510" src="https://github.com/user-attachments/assets/e141e281-05d5-4783-a5c7-4da49d08dc78" /><br>
+
+**Connected to the Internet and Sending Data**
+
+<br>
+
+<img width="1000" height="509" alt="AdaFruit Graph" src="https://github.com/user-attachments/assets/467e104a-db73-40e9-8461-5fe2b8a03781" />
+
+**Live Data Graph**
+
+<br>
+
+<img width="900" height="460" alt="AdaFruit Live Data" src="https://github.com/user-attachments/assets/7b530054-9e9f-4b17-b41a-f2b323dc9985" />
+
+**Live Data Graph**
 
 ## Appendix
 
-<https://ieeexplore.ieee.org/abstract/document/8502562>
-<https://ieeexplore.ieee.org/abstract/document/8728426>
+- <https://ieeexplore.ieee.org/abstract/document/8502562>
+- <https://ieeexplore.ieee.org/abstract/document/8728426>
