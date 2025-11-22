@@ -53,7 +53,10 @@ Install the following softwares and drivers for this project.
 - Breadboard
 - 3 LEDs (Red, Yellow And Blue)
 ## Circuit Diagram
-The circuit diagram shows the hardware setup used to build the IoT Temperature Monitor. The DHT11 sensor is connected to the NodeMCU through its data and ground pins, while the Arduino Uno is used only as a stable 5V power source for the sensor, since the NodeMCU’s 3.3V output is not sufficient to power the DHT11 reliably.
+
+<img width="600" height="533" alt="circuit_image (5)" src="https://github.com/user-attachments/assets/9563b533-0789-46d4-a0dd-ad5a0f5e8b55" /><br>
+
+The above circuit diagram shows the hardware setup used to build the IoT Temperature Monitor. The DHT11 sensor is connected to the NodeMCU through its data and ground pins, while the Arduino Uno is used only as a stable 5V power source for the sensor, since the NodeMCU’s 3.3V output is not sufficient to power the DHT11 reliably.
 
 Three LEDs are included in the circuit to visually indicate the system’s status:
 
