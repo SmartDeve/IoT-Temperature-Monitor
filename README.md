@@ -92,9 +92,9 @@ Three LEDs are included in the circuit to visually indicate the system’s statu
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `User Name` | `string` | **Required**. Your API key |
+| `User Name` | `string` | **Required**. Your User Name |
 | `Active Key` | `string` | **Required**. Your API key |
-| `Feed Key` | `string` | **Required**. Your API key |
+| `Feed Key` | `string` | **Required**. Your Feed key |
 
 You will find these in your AdaFruit IO Dashboard once you sign up! We will learn that step by step in the next section.
 
